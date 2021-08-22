@@ -1,4 +1,5 @@
-**This project provides best practices and automation for cloud cost management and optimization. There are several advantages of building in cloud but it can quickly add up in expense when it is not actively managed. There are many simple steps to manage cloud cost, with automation it can prevent unanticipated expense spikes and major cost optimization efforts.**   
+This project provides best practices and automation for cloud cost management and optimization. There are several advantages of building in cloud but it can quickly add up in expense when it is not actively managed. There are many simple steps to manage cloud cost, with automation it can prevent unanticipated expense spikes and major cost optimization efforts.  
+
 **Schedulers**   
 - Manage cost   
 - Manage over provisioned resources using the following schedulers:     
