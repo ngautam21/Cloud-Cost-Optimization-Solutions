@@ -1,14 +1,15 @@
-**High level features:**   
+This project provides best practices and automation for cloud cost management and optimization. There are several advantages of building in cloud but it can quickly add up in expense when it is not actively managed. There are many simple steps to manage cloud cost, with automation it can prevent unanticipated expense spikes and major cost optimization efforts.  
+
 **Schedulers**   
-- Control cost   
-- Control over provision of resources such as      
-    - EC2 Scheduler - Start/ Stops EC2 instances based on a schedule.   
-    - Auto Scaling Scheduler - Adds/ Updates a Schedule Scaling Policy.   
-    - DynamoDB Scheduler - Adds/ Updates Application Autoscaling policy on DynamoDB tables & indexes.      
+- Manage cost   
+- Manage over provisioned resources using the following schedulers:     
+    - EC2 Scheduler - Start/Stop EC2 instances based on a schedule.   
+    - Auto Scaling Scheduler - Add/Update a Schedule Scaling Policy.   
+    - DynamoDB Scheduler - Add/Update Application Autoscaling policy on DynamoDB tables & indexes.      
     - RDS Scheduler - Starts and Stops Relational database instances /clusters based on a schedule.      
     - EBS Scheduler - Delete unattached volumes.   
 
-**Tags – easy management**      
+**Tagging resources – easy management**      
 - Charge back model   
 - Reporting      
 - Integrate devops/procurement/cloud engineering team etc.   
@@ -20,7 +21,7 @@
 **KPI’s**   
 - Compare over a period of time?   
 
-**Save “O” meter. ( This must be a selling point)**   
+**Save “O” meter**   
 - Leverage statistics to determine the cost savings OR saving opportunities.   
 - Should crawl to the selected services, see the statistics and determine the cost.   
     - Example:    
