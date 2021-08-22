@@ -1,6 +1,6 @@
 # Overview:
-**What are ELB’s**   
-- ELB is a AWS service to distribute the workload across registered targets. Can be use for multiple reasons most common - provide high availability, scalability, security.   
+**What are Load Balancers**   
+- Elastic load balancer is a AWS service to distribute the workload across registered targets. Can be use for multiple reasons most common - provide high availability, scalability, security.   
 
 **Important to remember:**   
 - Any created load balancer accrued charges.   
